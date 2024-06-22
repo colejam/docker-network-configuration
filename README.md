@@ -14,9 +14,11 @@ This repository contains a Docker setup for monitoring network traffic using Spl
 ```sh
 git clone https://github.com/colejam/docker-splunk-monitoring.git
 cd docker-splunk-monitoring
+```
 
 ### Step 2: Install Docker and Docker Compose
 
 ```sh
 sudo apt-get update 
 sudo apt-get install docker.io docker-compose -y
+```
