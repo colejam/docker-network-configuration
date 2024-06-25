@@ -1,8 +1,8 @@
-# Docker Splunk Monitoring Setup
+# Docker network configuration
 
-This repository contains a Docker setup for monitoring network traffic using Splunk. It includes a Splunk container, an Ubuntu container, and a Kali container to generate network traffic.
+Orchestrated multi-container Docker applications using Docker Compose, focusing on creating scalable and secure network environments for application testing and deployment.## 
 
-## Prerequisites
+Prerequisites
 
 - Docker
 - Docker Compose
